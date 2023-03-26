@@ -371,3 +371,28 @@
       and life-saving procedures; it can no longer do complex surgeries.
   - bugfix: Fixed broken icon states on the autodoc, sleeper, and body scanner console
       when using a map editor.
+2023-03-24:
+  LTNTS:
+  - imageadd: landmarks for xeno_spawn
+  - imageadd: landmarks for thunderdome
+  Morrow:
+  - bugfix: Fixed icons for sleepers and body scanners
+  carlarctg:
+  - bugfix: Laundering money through the ATM is now only 25% as effective.
+  - bugfix: Increased cane pacing sound a little.
+  - bugfix: Fixed not actually ever being harmed from walking around with a bad leg
+      and no cane.
+  harryob:
+  - bugfix: fixed a bunch of bad dels causing lag
+2023-03-25:
+  BeagleGaming1:
+  - rscadd: You can now drag people up ledges
+  Khadd:
+  - rscadd: three sound files ```joe_report.ogg```, ```joe_breach.ogg```, ```joe_species.ogg```
+  - code_imp: modified ```code\modules\mob\living\carbon\human\species\emote-synthetic.dm```
+      in order to add the new emotes
+  LTNTS:
+  - rscdel: deletes unconnected piping in research
+  NewyearnewmeUwu:
+  - bugfix: overhead lattices now properly show up
+  - bugfix: Ghosts can no longer become offset.
